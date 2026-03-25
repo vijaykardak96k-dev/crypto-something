@@ -1,2 +1,2 @@
 FROM httpd
-COPY ./* /var/wwww/html/crypto-something/
+COPY ./crypto-something /var/wwww/html/crypto-something/index.html
