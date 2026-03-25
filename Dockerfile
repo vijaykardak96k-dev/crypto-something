@@ -1,2 +1,2 @@
 FROM httpd
-COPY index.html /var/wwww/html/
+COPY ./* /var/wwww/html/*
