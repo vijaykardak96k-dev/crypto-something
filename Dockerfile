@@ -1,2 +1,2 @@
 FROM httpd
-COPY  Crypto /var/wwww/html/Crypto/
+COPY Crypto /usr/local/apache2/htdocs/Crypto/
